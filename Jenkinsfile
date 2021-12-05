@@ -69,5 +69,4 @@ stage('CanaryDeploy') {
             }
         }
     }
-}
 
